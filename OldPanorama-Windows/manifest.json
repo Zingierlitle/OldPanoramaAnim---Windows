@@ -1,6 +1,0 @@
-{
-  "name": "OldPanorama",
-  "entry": "OldPanorama.dll",
-  "version": "0.1.0",
-  "type": "preload-native"
-}
